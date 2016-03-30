@@ -7,6 +7,7 @@ from __future__ import print_function
 
 from datetime import datetime
 from time import time as unix_time
+from optparse import OptionParser
 from subprocess import PIPE, Popen, STDOUT
 
 import os
@@ -48,8 +49,8 @@ def parser_args_check(args):
 
     return _opt
 
-if __name__ == '__main__':
-    from optparse import OptionParser
+
+def main():
     usage = "<your script> [options]"
     parser = OptionParser(usage)
     parser.add_option("--dir", help="Set the log source path")
@@ -96,4 +97,7 @@ if __name__ == '__main__':
     if os.path.exists(options.pid):
         shell_call('kill -USR1 `cat {pid}`'.format(pid=options.pid))
         print('Reload Nginx!\n')
+
+if __name__ == '__main__':
+    main()
 

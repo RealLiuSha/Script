@@ -1,6 +1,5 @@
 #!/usr/bin/python
 # -*- coding:utf-8 -*-
-# Name:        nginx_log_cut.py
 # Author:      LiuSha
 from __future__ import unicode_literals
 from __future__ import print_function

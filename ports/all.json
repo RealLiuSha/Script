@@ -3138,7 +3138,7 @@
             "description": "cft-1 to cft-7",
             "udp": true,
             "status": "Official",
-            "port": "1762â€“1768",
+            "port": "1762-1768",
             "tcp": true
         }
     ],
@@ -3291,7 +3291,7 @@
             "description": "Cisco TCO (Documentation)",
             "udp": true,
             "status": "Official",
-            "port": "1975â€“1977",
+            "port": "1975-1977",
             "tcp": false
         }
     ],
@@ -4174,7 +4174,7 @@
             "description": "KnowShowGo P2P",
             "udp": false,
             "status": "Official",
-            "port": "2700â€“2800",
+            "port": "2700-2800",
             "tcp": true
         }
     ],
@@ -5350,7 +5350,7 @@
             "description": "QualiSystems TestShell Suite Services",
             "udp": false,
             "status": "Unofficial",
-            "port": "4610â€“4640",
+            "port": "4610-4640",
             "tcp": true
         }
     ],
@@ -6938,7 +6938,7 @@
             "description": "Internet Relay Chat (IRC)",
             "udp": false,
             "status": "Unofficial",
-            "port": "6660â€“6664",
+            "port": "6660-6664",
             "tcp": true
         }
     ],
@@ -6947,7 +6947,7 @@
             "description": "Internet Relay Chat (IRC)",
             "udp": false,
             "status": "Official",
-            "port": "6665â€“6669",
+            "port": "6665-6669",
             "tcp": true
         }
     ],
@@ -7033,7 +7033,7 @@
             "description": "BitTorrent part of full range of ports used most often",
             "udp": true,
             "status": "Unofficial",
-            "port": "6881â€“6887",
+            "port": "6881-6887",
             "tcp": true
         }
     ],
@@ -7058,7 +7058,7 @@
             "description": "BitTorrent part of full range of ports used most often",
             "udp": true,
             "status": "Unofficial",
-            "port": "6889â€“6890",
+            "port": "6889-6890",
             "tcp": true
         }
     ],
@@ -7067,14 +7067,14 @@
             "description": "BitTorrent part of full range of ports used most often",
             "udp": true,
             "status": "Unofficial",
-            "port": "6891â€“6900",
+            "port": "6891-6900",
             "tcp": true
         },
         {
             "description": "Windows Live Messenger (File transfer)",
             "udp": true,
             "status": "Unofficial",
-            "port": "6891â€“6900",
+            "port": "6891-6900",
             "tcp": true
         }
     ],
@@ -7099,7 +7099,7 @@
             "description": "BitTorrent part of full range of ports used most often",
             "udp": true,
             "status": "Unofficial",
-            "port": "6902â€“6968",
+            "port": "6902-6968",
             "tcp": true
         }
     ],
@@ -7124,7 +7124,7 @@
             "description": "BitTorrent part of full range of ports used most often",
             "udp": true,
             "status": "Unofficial",
-            "port": "6970â€“6999",
+            "port": "6970-6999",
             "tcp": true
         }
     ],
@@ -9216,7 +9216,7 @@
             "description": "FRISK Software International's f-protd virus scanning daemon for Unix platforms [108]",
             "udp": false,
             "status": "Unofficial",
-            "port": "10201â€“10204",
+            "port": "10201-10204",
             "tcp": true
         }
     ],
@@ -9464,7 +9464,7 @@
             "description": "Takenaka RDI Mirror World on SecondLife[citation needed]",
             "udp": true,
             "status": "Unofficial",
-            "port": "12998â€“12999",
+            "port": "12998-12999",
             "tcp": false
         }
     ],
@@ -9473,7 +9473,7 @@
             "description": "Linden Lab viewer to sim on SecondLife[citation needed]",
             "udp": true,
             "status": "Unofficial",
-            "port": "13000â€“13050",
+            "port": "13000-13050",
             "tcp": false
         }
     ],
